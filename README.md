@@ -1,3 +1,7 @@
+# First Website Code On Github!
+
+Testing the waters with Angular and VS Code. I'm using this project to learn how to build a webpage with Angular and will be using that knowledge to make further, more complicated projects. Stay tuned...
+
 # AngularTourOfHeros
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
